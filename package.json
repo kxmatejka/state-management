@@ -21,10 +21,12 @@
   },
   "homepage": "https://github.com/kxmatejka/next-template#readme",
   "dependencies": {
+    "immer": "^9.0.6",
     "next": "10",
     "react": "17",
     "react-dom": "17",
-    "styled-components": "5"
+    "styled-components": "5",
+    "zustand": "^3.6.1"
   },
   "devDependencies": {
     "@storybook/react": "^5.3.19",
